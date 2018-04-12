@@ -1,0 +1,16 @@
+#myVideo {
+    position: fixed;
+    top: 10%
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.myimage {
+    max-height: 25vh:none;
+    height: auto;
+    width: auto;
+    -o object-fit: cover;
+    overflow: hidden;  
+
+}
